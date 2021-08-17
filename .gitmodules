@@ -1,0 +1,3 @@
+[submodule "myapp-backend"]
+	path = myapp-backend
+	url = git@github.com:shiory602/myapp-backend.git
